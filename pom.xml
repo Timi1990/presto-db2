@@ -18,6 +18,11 @@
 			<groupId>io.prestosql</groupId>
 			<artifactId>presto-base-jdbc</artifactId>
 		</dependency>
+		<dependency>
+            <groupId>org.apache.httpcomponents</groupId>
+            <artifactId>httpclient</artifactId>
+            <version>4.1.2</version>
+        </dependency>
 
 		<dependency>
 			<groupId>io.airlift</groupId>
