@@ -28,6 +28,11 @@
 			<groupId>io.airlift</groupId>
 			<artifactId>configuration</artifactId>
 		</dependency>
+		<dependency>
+            <groupId>com.beust</groupId>
+            <artifactId>jcommander</artifactId>
+            <version>1.72</version>
+        </dependency>
 
 		<dependency>
 			<groupId>com.google.guava</groupId>
